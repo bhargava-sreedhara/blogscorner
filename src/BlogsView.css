@@ -1,0 +1,20 @@
+
+.blogsScrollArea
+{
+  height: 100%;
+  overflow-y: auto;
+  padding-bottom: 1rem;
+}
+.card-img-top
+{
+  height: 200px;
+  object-fit: cover;
+}
+
+.myBlogsHeading
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: black;
+}

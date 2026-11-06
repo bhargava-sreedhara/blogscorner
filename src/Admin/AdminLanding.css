@@ -1,0 +1,30 @@
+
+.adminHome
+{
+    min-height: 100vh;
+    background: url(../../public/images/admin-landing-1.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.statsCardHeader
+{
+    background-color: darkblue !important;
+    color: white !important;
+    font-weight: 700 !important;
+}
+.statsCard
+{
+    min-height: 250px;
+}
+.statsCardBody
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: skyblue;
+    color: black;
+    font-weight: 800;
+}

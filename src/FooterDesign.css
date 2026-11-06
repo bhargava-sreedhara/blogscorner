@@ -1,0 +1,13 @@
+
+.footerDesign
+{
+    height: 16vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+  background-color: #E8E8E8 !important;
+
+}

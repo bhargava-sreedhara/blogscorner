@@ -1,0 +1,30 @@
+
+.hero
+{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.mainContentPlaceholder
+{
+    flex: 1;
+    overflow: hidden;
+}
+.welcomeBanner
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:last baseline;
+
+    background-image: url('../public/images/home-page-2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@media (min-width:1500px) {
+    .welcomeBanner
+    {
+        min-height: 76vh;
+    }    
+}

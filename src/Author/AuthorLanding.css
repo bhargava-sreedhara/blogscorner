@@ -1,0 +1,9 @@
+
+.authorHome
+{
+    min-height: 100vh;
+    background: url(../../public/images/author-landing-1.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -1,0 +1,12 @@
+
+.author-bg
+{
+    background-image: url('../public/images/author-reg-1.avif');
+    background-position: center;
+    background-size: cover;
+    transition: background 0.2s ease-in;
+}
+.regButton
+{
+    background-color: #E8E8E8;
+}
